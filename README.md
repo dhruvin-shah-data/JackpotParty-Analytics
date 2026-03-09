@@ -11,7 +11,7 @@
 
 | Game Health | Player Engagement | Monetization |
 |:-----------:|:-----------------:|:------------:|
-| ![](images/game_health.png) | ![](images/livops_and_player.png) | ![](images/monetization_dashboard.png) |
+| ![](images/dashboards/game_health.png) | ![](images/dashboards/livops_and_player.png) | ![](images/dashboards/monetization_dashboard.png) |
 
 ---
 
