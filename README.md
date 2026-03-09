@@ -9,6 +9,10 @@
 > **Academic project using fictional simulated data. No confidential or proprietary information is included.**  
 > Data is limited but will be expanded for further analysis.
 
+| Game Health | Player Engagement | Monetization |
+|:-----------:|:-----------------:|:------------:|
+| ![](images/game_health.png) | ![](images/livops_and_player.png) | ![](images/monetization_dashboard.png) |
+
 ---
 
 ## 📌 Overview
@@ -231,4 +235,3 @@ This is an academic project. All data is **fictional and simulated** for educati
 
 ---
 
-*Built as part of a data analytics portfolio project · January 2024*
